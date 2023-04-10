@@ -1,5 +1,9 @@
-# project-timeseries
-Time Series Forcasting with XGBoost 
+
+## Articulo en Medium: https://medium.com/@ivan-lee/series-de-tiempo-con-xgboost-f732f1da3056 
+
+
+
+# Time Series Forcasting with XGBoost 
 
 
 ## Dataset Description:
